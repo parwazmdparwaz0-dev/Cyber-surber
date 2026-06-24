@@ -1,0 +1,6 @@
+{
+  "name": "Cyber Surfer",
+  "description": "A futuristic endless runner game with cybernetic power-ups and diamond conversions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
